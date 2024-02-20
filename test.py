@@ -1,7 +1,6 @@
-space="   "
+space=""
 print(space)
-self=(SELF DETAILS)
-print(self)
+
 
 name='uma'
 print(name)
@@ -23,7 +22,6 @@ print("my name is",name,"and my roll number is",rollNo,\
       "mobile number and aadhar numbers are",mobileNo,(aadharno),\
       "emailid is", emailid, "my fathers name is", fatherName,\
       "im from ",address,"and my percentage is",percentage,),\
-space="      "
 print(space)
 
 emp='employee details'
@@ -41,8 +39,8 @@ print("i'm ",employeeName,"working in",companyName,\
       "my salary is",salary,"this is my mobile number and native address:",mobile,address,\
       "and this is our company address:",companyAddress,),\
 
- space="   "
- print(space)
+space=""
+print(space)
  
 patient='patient deatils'
 print(patient)
@@ -63,11 +61,5 @@ print("In",Hospitalname,"one patient is there that patient name is" ,patientname
       "her aadhar number",patientaadharNO,"ration card number",patientrationCard,"Dob-",DateOfBirth,)
 
 
-
-
-
-
-
-                   
-
-
+print("Hello")
+print("Good morning")
